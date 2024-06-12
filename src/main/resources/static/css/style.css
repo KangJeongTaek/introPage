@@ -14,7 +14,28 @@ body {
     height: 60%;
 }
 
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 #card{
     background-color: whitesmoke;
+    border-radius: 5px;
 }
+.fade-in-up{
+    animation:fadeInUp 1s ease-in-out;
+}
+
+#left-card{
+    background-color: lightskyblue;
+}
+
+
 
