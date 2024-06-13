@@ -8,6 +8,6 @@
 ## 2일차
 - 일본어 기능도 넣을려고 다짐했습니다.
 - 현재 페이지에서 버튼을 추가하고 버튼을 누르면 javaScript를 통해 텍스트를 변경했습니다.
-<img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video01.png" width="730px">
+<img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video01.gif" width="730px">
 - 상세 정보를 표현할 템플릿을 구했습니다.
   <img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/img02.png" width="730px">
