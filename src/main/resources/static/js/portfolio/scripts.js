@@ -32,3 +32,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+function yu_gi_oh(){
+    YuWindow = window.open('/html/yu_gi_oh.html','YuGiOhWindow',"width=500,height=500, location=no, status=no, toolbars=no, resizable=no");
+}

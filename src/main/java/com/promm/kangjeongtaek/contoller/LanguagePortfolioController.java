@@ -14,4 +14,7 @@ public class LanguagePortfolioController {
     public String portfolioJa() {
         return "portfolio-ja";
     }
+
+    @GetMapping("/yu_gi_oh")
+    public String yu_gi_oh(){return "yu_gi_oh";}
 }
