@@ -15,7 +15,7 @@ function setLanguage(languages){
         },
         ja :{
             name : 'カン・ジョンテク',
-            description :'IT業界を夢見ています。'
+            description :'IT業界を志望しています。'
         }
     }
 
