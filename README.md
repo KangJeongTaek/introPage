@@ -11,3 +11,7 @@
 <img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video01.gif" width="730px">
 - 상세 정보를 표현할 템플릿을 구했습니다.
   <img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/img02.png" width="730px">
+
+## 3일차
+- 간단하게 내용을 꾸몄습니다.
+<img src=""https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video02.gif" width="730px"">
