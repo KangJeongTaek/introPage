@@ -14,4 +14,5 @@
 
 ## 3일차
 - 간단하게 내용을 꾸몄습니다.
-<img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video02.gif" width="730px"">
+
+<img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video02.gif" width="730px">
