@@ -38,9 +38,9 @@ function setLanguage(languages){
 function userPlusButton(){
     const language = document.getElementById('currentLanguage').value;
     if(language === 'ja'){
-        window.location.replace('/portfolio-ja');
+        window.location.href = '/portfolio-ja';
     }
     if(language === 'ko'){
-        window.location.replace('/portfolio-ko');
+        window.location.href = '/portfolio-ko';
     }
 }
