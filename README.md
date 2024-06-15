@@ -16,3 +16,7 @@
 - 간단하게 내용을 꾸몄습니다.
 
 <img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video02.gif" width="730px">
+
+## 4일차
+- 초안을 작성 완료해서 서버에 띄우는 것까지 성공했습니다.
+- http://223.130.128.216/
