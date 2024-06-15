@@ -2,38 +2,36 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>Yu-Gi-Oh Card</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        .card {
-            width: 300px;
-            padding: 20px;
-            border: 1px solid #ccc;
-            background-color: #fff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        .card img {
-            max-width: 100%;
-            height: auto;
-        }
-        .card h2 {
-            margin: 10px 0;
-        }
-    </style>
+    <title></title>
+    <link href="/css/card/base.css" rel="stylesheet">
+    <link href="/css/card/cards.css" rel="stylesheet">
+    <link href="/css/card/global.css" rel="stylesheet">
+    <link href="/css/card/secretRare.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" rel="stylesheet" type="text/css">
 </head>
 <body>
-<div class="card">
-    <img src="https://via.placeholder.com/300x400" alt="Yu-Gi-Oh Card">
-    <h2>카드 이름</h2>
-    <p>카드 설명이 여기에 들어갑니다.</p>
+<div class="head">
+    <p class="text">Yu-Gi-Oh</p>
 </div>
+<div class="content">
+<div class="showcase">
+    <div class="card fusion"
+         data-rarity="rare secret" data-type="monsterfusion" >
+        <div class="card__translater">
+            <button class="card__rotator" aria-label="Exapne the Card; Mirror" tabindex="0">
+                <img class="card__back" src="/assets/img/card/back_card.jpg" loading="lazy" width="660" height="921" alt="이미지 없음">
+                <div class="card__front">
+                    <img src="/assets/img/card/IceBlade.webp" loading="lazy" width="660" height="921">
+                    <div class="card__shine">
+                    </div>
+                    <div class="card__glare">
+                    </div>
+                </div>
+            </button>
+        </div>
+    </div>
+</div>
+</div>
+<script src="/js/card/script.js"></script>
 </body>
 </html>
