@@ -96,11 +96,16 @@ caption {
   color: #6c757d;
   text-align: left;
 }
+
+
+
+
 .figure-caption {
   font-size: 0.875em;
   color: #6c757d;
 }
 .portfolio-item {
+  cursor: pointer;
   display: block;
   position: relative;
   overflow: hidden;
