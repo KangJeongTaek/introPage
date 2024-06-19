@@ -112,7 +112,7 @@ caption {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: rgba(33, 37, 41, 0.2);
+  background-color: rgba(33, 37, 41, 0.1);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -160,7 +160,7 @@ caption {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(255, 255, 255, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -685,7 +685,7 @@ progress {
   border: 1px solid var(--bs-border-color);
   border-radius: 0.375rem;
   max-width: 100%;
-  height: auto;
+  height: 300px;
 }
 
 .figure {
