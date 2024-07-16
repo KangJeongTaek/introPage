@@ -15,6 +15,7 @@
 ## 3일차
 - 간단하게 내용을 꾸몄습니다.
 
+
 <img src="https://raw.githubusercontent.com/KangJeongTaek/introPage/master/readme/images/video02.gif" width="730px">
 
 ## 4일차
@@ -22,3 +23,6 @@
 - http://223.130.128.216/
 
 - 추후에도 계속해서 업데이트 할 예정입니다.
+
+## 2024/07/16
+- 무료 도메인을 받아 DNS를 변경했습니다. http://kangjeongtaek.kro.kr
